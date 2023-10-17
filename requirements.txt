@@ -1,0 +1,8 @@
+azure-functions
+requests
+
+pre-commit
+black
+ruff
+pyupgrade
+isort
